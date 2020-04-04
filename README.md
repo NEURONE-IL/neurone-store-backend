@@ -9,4 +9,5 @@ Run `npm start` for a dev server. If you want to refresh automatically to your c
 ## Docker
 
 Please to run the next commands you need to install Docker. https://docs.docker.com/install/
+
 Run `bash build.sh` and `bash run.sh` to deploy in a docker instance this project.
