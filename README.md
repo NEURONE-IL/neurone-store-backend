@@ -4,7 +4,11 @@ The purpose of this pyoecto is to build a server, based on express.js, for the c
 
 ## Development
 
+You need to install MongoDB into your local environment and have a collection named `test`. You can follow de official instructions to have mongodb. https://www.mongodb.com/download-center.
+
 Run `npm start` for a dev server. If you want to refresh automatically to your changes please run `npm i nodemon`, then run `nodemon start`.
+
+Also you can modify the configuration of the database in the `.env` file.
 
 ## Docker
 
